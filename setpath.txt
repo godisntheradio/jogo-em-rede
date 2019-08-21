@@ -1,0 +1,2 @@
+set ANDROID_HOME=C:\ installation location \android-sdk
+set PATH=%PATH%;%ANDROID_HOME%\tools;%ANDROID_HOME%\platform-tools

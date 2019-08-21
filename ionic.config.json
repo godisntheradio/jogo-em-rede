@@ -1,0 +1,7 @@
+{
+  "name": "AnotherShooter",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
